@@ -4,7 +4,5 @@ This repository contains my solutions to the assignments of the CS231n course of
 
 Assignment setup was provided by CS231n course https://cs231n.github.io/assignments2018/assignment1/
 
-Q1> k-Nearest Neighbor classifier.
-Q2> Training a Support Vector Machine.
-Q3> Implement a Softmax classifier.
-Q4>  Two-Layer Neural Network.
+Q1> k-Nearest Neighbor classifier, Training a Support Vector Machine, Implement a Softmax classifier, Two-Layer Neural Network.
+Q2> C-NN with 5- Hidden Layer network (Pending).
